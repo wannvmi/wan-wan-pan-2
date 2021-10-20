@@ -1,3 +1,4 @@
+import 'modern-normalize/modern-normalize.css';
 // 通用字体
 import 'vfonts/Lato.css';
 // 等宽字体
